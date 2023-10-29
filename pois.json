@@ -1,0 +1,141 @@
+[{
+  "name": "Lost Spirit XV",
+  "color": "#ffffff",
+  "icon": "flag",
+  "visibility": "always",
+  "location": {
+    "x": -680,
+    "y": 68,
+    "z": -3194
+  }
+}, {
+  "name": "Lost Spirit XVII",
+  "color": "#ffffff",
+  "icon": "flag",
+  "visibility": "always",
+  "location": {
+    "x": -204,
+    "y": 28,
+    "z": -320
+  }
+}, {
+  "name": "Lost Spirit XVIII",
+  "color": "#ffffff",
+  "icon": "flag",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Lost Spirit XIX",
+  "color": "#ffffff",
+  "icon": "flag",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Lost Spirit XX",
+  "color": "#ffffff",
+  "icon": "flag",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Lost Spirit XXI",
+  "color": "#ffffff",
+  "icon": "flag",
+  "visibility": "hidden",
+  "location": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}, {
+  "name": "Bounty Spirit V",
+  "color": "#ffff00",
+  "icon": "flag",
+  "visibility": "always",
+  "location": {
+    "x": -2124,
+    "y": 44,
+    "z": -2918
+  }
+}, {
+  "name": "Bounty Spirit X",
+  "color": "#ffff00",
+  "icon": "flag",
+  "visibility": "always",
+  "location": {
+    "x": -1369,
+    "y": 56,
+    "z": -3312
+  }
+}, {
+  "name": "Bounty Spirit XI",
+  "color": "#ffff00",
+  "icon": "flag",
+  "visibility": "always",
+  "location": {
+    "x": 1,
+    "y": 8,
+    "z": -3183
+  }
+}, {
+  "name": "Bounty Spirit XII",
+  "color": "#ffff00",
+  "icon": "flag",
+  "visibility": "always",
+  "location": {
+    "x": -350,
+    "y": 57,
+    "z": -389
+  }
+}, {
+  "name": "Bounty Spirit XIV",
+  "color": "#ffff00",
+  "icon": "flag",
+  "visibility": "always",
+  "location": {
+    "x": 1291,
+    "y": 227,
+    "z": -782
+  }
+}, {
+  "name": "Bounty Spirit XV",
+  "color": "#ffff00",
+  "icon": "flag",
+  "visibility": "always",
+  "location": {
+    "x": 1311,
+    "y": 28,
+    "z": -4678
+  }
+}, {
+  "name": "Bounty Spirit XVII",
+  "color": "#ffff00",
+  "icon": "flag",
+  "visibility": "always",
+  "location": {
+    "x": 1405,
+    "y": 58,
+    "z": -2020
+  }
+}, {
+  "name": "Bounty Spirit XVIII",
+  "color": "#ffff00",
+  "icon": "flag",
+  "visibility": "always",
+  "location": {
+    "x": -365,
+    "y": 24,
+    "z": -2856
+  }
+}]
