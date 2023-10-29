@@ -1,7 +1,7 @@
 [{
   "name": "Lost Spirit XV",
   "color": "#ffffff",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "always",
   "location": {
     "x": -680,
@@ -11,7 +11,7 @@
 }, {
   "name": "Lost Spirit XVII",
   "color": "#ffffff",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "always",
   "location": {
     "x": -204,
@@ -21,7 +21,7 @@
 }, {
   "name": "Lost Spirit XVIII",
   "color": "#ffffff",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "hidden",
   "location": {
     "x": 0,
@@ -31,7 +31,7 @@
 }, {
   "name": "Lost Spirit XIX",
   "color": "#ffffff",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "hidden",
   "location": {
     "x": 0,
@@ -41,7 +41,7 @@
 }, {
   "name": "Lost Spirit XX",
   "color": "#ffffff",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "hidden",
   "location": {
     "x": 0,
@@ -51,7 +51,7 @@
 }, {
   "name": "Lost Spirit XXI",
   "color": "#ffffff",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "hidden",
   "location": {
     "x": 0,
@@ -61,7 +61,7 @@
 }, {
   "name": "Bounty Spirit V",
   "color": "#ffff00",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "always",
   "location": {
     "x": -2124,
@@ -71,7 +71,7 @@
 }, {
   "name": "Bounty Spirit X",
   "color": "#ffff00",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "always",
   "location": {
     "x": -1369,
@@ -81,7 +81,7 @@
 }, {
   "name": "Bounty Spirit XI",
   "color": "#ffff00",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "always",
   "location": {
     "x": 1,
@@ -91,7 +91,7 @@
 }, {
   "name": "Bounty Spirit XII",
   "color": "#ffff00",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "always",
   "location": {
     "x": -350,
@@ -101,7 +101,7 @@
 }, {
   "name": "Bounty Spirit XIV",
   "color": "#ffff00",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "always",
   "location": {
     "x": 1291,
@@ -111,7 +111,7 @@
 }, {
   "name": "Bounty Spirit XV",
   "color": "#ffff00",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "always",
   "location": {
     "x": 1311,
@@ -121,7 +121,7 @@
 }, {
   "name": "Bounty Spirit XVII",
   "color": "#ffff00",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "always",
   "location": {
     "x": 1405,
@@ -131,7 +131,7 @@
 }, {
   "name": "Bounty Spirit XVIII",
   "color": "#ffff00",
-  "icon": "flag",
+  "icon": "diamond",
   "visibility": "always",
   "location": {
     "x": -365,
